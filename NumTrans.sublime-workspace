@@ -1,0 +1,392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"Sca",
+				"Scanf	n int, err error ƒ"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"S",
+				"Scanf	n int, err error ƒ"
+			],
+			[
+				"sca",
+				"Scanf	n int, err error ƒ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "NumTrans.go",
+			"settings":
+			{
+				"buffer_size": 709,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Go Build/Go.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"per",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/D/Projects/Private/Go/NumTrans/NumTrans.go",
+		"/D/Projects/Private/Go/NumTrans/NumTrans",
+		"/D/Projects/Private/Go/BitMapDraw/TreeCompare.go",
+		"/D/Projects/Private/Go/BitMapDraw/StringTest.go",
+		"/D/Projects/Private/Go/BitMapDraw/FizzBuzz.go",
+		"/D/Projects/Private/Go/BitMapDraw/LoopPractise.go",
+		"/D/Projects/Private/Go/BitMapDraw/PrimeSieve.go",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/D/Projects/Private/Go/BitMapDraw/Peano.go",
+		"/D/Projects/Private/Go/BitMapDraw/SquareT.go",
+		"/D/SVN/Zigbee/develop/software/trunk/CC2530/coordinator/project/coordinator.ewp",
+		"/D/SVN/Zigbee/develop/software/trunk/switchpanel/project/switchpanel.ewp",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/project/coordinator.ewp",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/switchpanel/project/switchpanel.ewd",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/switchpanel/project/switchpanel.ewp",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/source/OSAL_coordinator.c",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/source/coordinator.h",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/source/coordinator.c",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/project/corporator.ewp",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/project/corporator.eww",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/coordinator/project/corporator.ewd",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/switchpanel/source/GenericApp.c",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/switchpanel/source/GenericApp.h",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/switchpanel/source/OSAL_GenericApp.c",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/corporator/source/corporator.c",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/corporator/source/corporator.h",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/corporator/source/OSAL_corporator.c",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/corporator/project/corporator.eww",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/corporator/project/corporator.ewd",
+		"/D/SVN/Zigbee/develop/software/trunk/controlpanel/Projects/zstack/corporator/project/corporator.ewp",
+		"/D/Projects/ZigBee/官方/ZigBee底层部分/ZB2530-01N-01PA/IAR/source_exp/B130/B130.c",
+		"/D/Projects/Private/Go/BitMapDraw/Peg.go",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/9o.md",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/Default (Windows).sublime-keymap",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/D/Projects/Private/Go/BitMapDraw/pi.go",
+		"/D/Projects/Private/Go/BitMapDraw/helloworld.go",
+		"/D/Projects/Private/Go/BitMapDraw/fibonacci.go",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/User/GoCmd.sublime-build",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/E/Texas Instruments/ZStack-CC2530-2.5.1a/Projects/zstack/Samples/SampleApp/Source/SampleApp.c",
+		"/D/temporary/SublimeTextConfig/BackForMyself.setting",
+		"/D/temporary/SublimeTextConfig/BackForMyself.sublime-keymap",
+		"/E/Texas Instruments/ZStack-CC2530-2.5.1a/Projects/zstack/Samples/SampleApp/CC2530DB/Source/SampleAppHw.c",
+		"/E/Texas Instruments/ZStack-CC2530-2.5.1a/Projects/zstack/Samples/SampleApp/Source/SampleAppHw.h",
+		"/E/Texas Instruments/ZStack-CC2530-2.5.1a/Projects/zstack/HomeAutomation/SampleSwitchOta/CC2530DB/SampleSwitchOta.eww",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Download/BackForMyself.setting",
+		"/E/Download/BackForMyself.sublime-keymap",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/VirtualSys/Share/GenericApp2.hex",
+		"/E/VirtualSys/Share/GenericApp.hex",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\..\\..\\Libraries\\",
+			"\\..\\..\\..\\Libraries\\",
+			"\\..\\..\\Libraries\\",
+			"\\..\\..\\Tools\\",
+			"\\..\\..\\ZMain\\",
+			"\\..\\..\\..\\..\\",
+			"\\..\\..\\..\\",
+			"\\..\\..\\",
+			"\\..\\..\\Libraries\\",
+			"Lib",
+			"\\..\\..\\Source",
+			"\\..\\..\\",
+			"\\..\\..\\..\\Libraries",
+			"\\..\\..\\Tools\\",
+			"\\..\\..\\..\\..\\Components",
+			"\\..\\..\\ZMain",
+			"\\..\\..\\Tools",
+			"\\..\\..\\..\\Tools",
+			"\\..\\..\\..\\Tools\\",
+			"\\..\\..\\..\\ZMain\\",
+			"\\..\\..\\..\\..\\..\\Components",
+			"\\..\\..\\..\\",
+			"corporator",
+			"Corporator",
+			"corporator",
+			"Corporator",
+			"CORPORATOR",
+			"corporator",
+			"corp",
+			"inc",
+			"include",
+			"\\..\\..\\..\\..\\..\\",
+			"\\..\\..\\..\\..\\",
+			"\\..\\..\\..\\..\\..\\",
+			"GenericApp",
+			"SerialApp",
+			"ctrl+b",
+			"alt+g",
+			"alt+b",
+			"alt+g",
+			"ctrl+b",
+			"”",
+			"“",
+			"Goto",
+			"toggle",
+			"next",
+			"“",
+			"”",
+			"ctrl+w",
+			"alt",
+			"alt+w",
+			"f2",
+			"ctrl+shift+o",
+			"ctrl+shift+p",
+			"ctrl+p",
+			"| indication",
+			"Confirm",
+			"Indication",
+			"ff"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\..\\Source\\Libraries\\",
+			"\\..\\Source",
+			"\\..\\Source\\Libraries",
+			"\\..\\Source\\Tools\\",
+			"\\..\\Source\\Components\n\\..\\Source\\Components\n\\..\\Source\\Tools\\",
+			"\\..\\Source\\Components",
+			"\\..\\Source\\ZMain",
+			"\\..\\..\\Tools",
+			"\\..\\..\\ZMain\\",
+			"\\..\\..\\..\\..\\Components",
+			"\\..\\..\\",
+			"coordinator",
+			"Coordinator",
+			"coordinator",
+			"Coordinator",
+			"COORDINATOR",
+			"coordinator",
+			"\\..\\..\\..\\..\\",
+			"\\..\\..\\..\\..\\..\\",
+			"\\..\\..\\..\\",
+			"\\..\\..\\..\\..\\",
+			"switchpanel",
+			"corporator",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "NumTrans.go",
+					"settings":
+					{
+						"buffer_size": 709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/GoSublime.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\Dare\\AppData\\Roaming\\Sublime Text 2\\Packages\\GoSublime":
+	{
+		"height": 144.0
+	},
+	"output.9o://D:\\Projects\\Private\\Go\\BitMapDraw":
+	{
+		"height": 144.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 162.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sampleapp.c",
+				"Samples/SampleApp/Source/SampleApp.c"
+			],
+			[
+				"samp",
+				"Samples/SampleApp/Source/SampleAppHw.h"
+			],
+			[
+				"sampleapp",
+				"Samples/SampleApp/Source/SampleApp.c"
+			],
+			[
+				"smap",
+				"Samples/SampleApp/Source/SampleApp.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
