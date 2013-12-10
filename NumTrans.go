@@ -28,18 +28,52 @@ import "fmt"
 import "unicode/utf8"
 
 
-var digChar[] := {'零','壹','贰','叁','肆','伍','陆','柒','捌','玖'};
-var numChar[] := {'元','拾','百','千','万','亿','兆','京','垓','杼','穰','沟','涧','正','载','极'};
-var unitChar[] := {'元','角','分'};
+var digChar  = [...]byte{'零','壹','贰','叁','肆','伍','陆','柒','捌','玖'};
+var numChar  = [...]byte{'元','拾','百','千','万','亿','兆','京','垓','杼','穰','沟','涧','正','载','极'};
+var unitChar = [...]byte{'元','角','分'};
+
+func Dig2Char(digChar byte)
+{
+
+}
+
 
 func transDigStr(digStr string) string
 {
-    
+    c := []rune(digStr);
+    for i , v := range c{
+        if v != '.' {
+            continue;
+        }
+        else
+        {
+            break;
+        }
+    }
+    //Get num char
+    var maxnum = 0;
+    maxnum = (i/4)+4; 
+
+    //get unit char
+    var j = 0;
+    if i != len(c) {
+        j = len(c) = i ;
+    }
+
+    //construct string
+    for num := 0 ; num < i ; num++ {
+
+    }
+
+
+
     return;
 }
 
 
 func main() {
-    
+
+    s := transDigStr("23429325.39");
+    fmt.Printf("%s",s);
     return;
 }

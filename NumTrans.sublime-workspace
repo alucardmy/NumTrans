@@ -35,7 +35,7 @@
 			"file": "NumTrans.go",
 			"settings":
 			{
-				"buffer_size": 709,
+				"buffer_size": 1200,
 				"line_ending": "Windows"
 			}
 		}
@@ -92,15 +92,16 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
 		"/D/Projects/Private/Go/NumTrans/NumTrans.go",
+		"/D/Projects/Private/Go/NumTrans/NumTrans.sublime-project",
+		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
 		"/D/Projects/Private/Go/NumTrans/NumTrans",
 		"/D/Projects/Private/Go/BitMapDraw/TreeCompare.go",
 		"/D/Projects/Private/Go/BitMapDraw/StringTest.go",
 		"/D/Projects/Private/Go/BitMapDraw/FizzBuzz.go",
 		"/D/Projects/Private/Go/BitMapDraw/LoopPractise.go",
 		"/D/Projects/Private/Go/BitMapDraw/PrimeSieve.go",
-		"/C/Users/Dare/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
 		"/D/Projects/Private/Go/BitMapDraw/Peano.go",
 		"/D/Projects/Private/Go/BitMapDraw/SquareT.go",
 		"/D/SVN/Zigbee/develop/software/trunk/CC2530/coordinator/project/coordinator.ewp",
@@ -275,15 +276,15 @@
 					"file": "NumTrans.go",
 					"settings":
 					{
-						"buffer_size": 709,
+						"buffer_size": 1200,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								659,
-								659
+								523,
+								523
 							]
 						],
 						"settings":
@@ -291,7 +292,7 @@
 							"syntax": "Packages/GoSublime/GoSublime.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 525.0,
+						"translation.y": 756.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -337,6 +338,10 @@
 	"output.9o://D:\\Projects\\Private\\Go\\BitMapDraw":
 	{
 		"height": 144.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 180.0
 	},
 	"output.MarGo-output":
 	{
